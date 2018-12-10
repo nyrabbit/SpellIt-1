@@ -1,0 +1,2 @@
+run 4 ['ran', 'runs', 'running']
+teach 3 ['teaches', 'teaching']

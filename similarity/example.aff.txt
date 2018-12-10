@@ -1,0 +1,4 @@
+﻿SET UTF-8
+SFX Verb1 Y 2
+SFX Verb1 un an [u][n]
+SFX Verb1 0  es [h]  
